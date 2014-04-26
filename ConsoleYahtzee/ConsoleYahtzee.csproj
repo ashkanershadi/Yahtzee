@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Framework\DiceCupConsoleDisplay.cs" />
     <Compile Include="Framework\DiceSetSaverConsoleDisplay.cs" />
+    <Compile Include="Framework\IDiceCupDisplay.cs" />
     <Compile Include="Framework\ScoreSheetConsoleDisplayer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
